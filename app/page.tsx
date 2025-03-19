@@ -26,7 +26,7 @@ export default function Home() {
         contactInfo={{
           address: "Calle 16 # 20-69, Arauca-Arauca",
           phone: "+57 316 835 22 22",
-          schedule: "Lun-Vie: 10:00-18:00, Sáb: 10:00-14:00"
+          schedule: "Lun-Vie: 09:00-12:00"
         }}
       />
       
