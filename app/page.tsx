@@ -25,7 +25,7 @@ export default function Home() {
       <Footer
         contactInfo={{
           address: "Calle 16 # 20-69, Arauca-Arauca",
-          phone: "+57 316 835 22 22",
+          phone: "+57 317 517 60 81",
           schedule: "Lun-Vie: 09:00-12:00"
         }}
       />
