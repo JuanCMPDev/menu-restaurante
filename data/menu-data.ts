@@ -5,7 +5,7 @@ export const menuData = {
     {
       id: "1",
       name: "Ensalada de Frutas",
-      description: "Refrescante mezcla de lechuga con fresas, piña y manzana, perfecta para quienes buscan un toque dulce y natural.",
+      description: "Refrescante mezcla de lechuga con una variedad de frutas frescas, ideal para quienes buscan un toque dulce y natural.",
       price: 6000,
       category: "Ensaladas Dulces",
       imageUrl: "/frutas.jpg",
@@ -17,7 +17,7 @@ export const menuData = {
     {
       id: "2",
       name: "Ensalada de Remolacha",
-      description: "Ensalada colorida con remolacha rallada, zanahoria y huevo duro, ideal para acompañar cualquier comida.",
+      description: "Colorida ensalada con vegetales frescos, perfecta para acompañar cualquier comida.",
       price: 6000,
       category: "Ensaladas Saladas",
       imageUrl: "/remolacha.webp",
@@ -27,7 +27,7 @@ export const menuData = {
     {
       id: "3",
       name: "Ensalada de Aguacate",
-      description: "Clásica combinación de aguacate, cebolla, tomate y lechuga, perfecta para los amantes de los sabores frescos.",
+      description: "Clásica combinación de ingredientes frescos y sabrosos, ideal para los amantes de los sabores naturales.",
       price: 6000,
       category: "Ensaladas Saladas",
       imageUrl: "/aguacate.webp",
@@ -39,7 +39,7 @@ export const menuData = {
     {
       id: "4",
       name: "Ensalada de Verduras Salteadas",
-      description: "Mezcla caliente de zanahoria, habichuela, repollo, pimentón, succini de colores, cebolla roja y champiñones salteados.",
+      description: "Mezcla caliente de vegetales salteados, perfecta para quienes prefieren opciones veganas.",
       price: 6000,
       category: "Ensaladas Saladas",
       imageUrl: "/salteada.jpg",
@@ -51,7 +51,7 @@ export const menuData = {
     {
       id: "5",
       name: "Ensalada de Pollo",
-      description: "Ensalada cremosa con trozos de pollo, papa, zanahoria, habichuela y arveja, con un toque de mayonesa y crema de leche.",
+      description: "Ensalada cremosa con pollo y vegetales frescos, complementada con una suave mezcla de ingredientes.",
       price: 6000,
       category: "Ensaladas Saladas",
       imageUrl: "/pollo-papa.jpg",
